@@ -1,0 +1,28 @@
+.fundo {
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 36%, rgba(0,212,255,1) 77%);
+    }
+    
+    .tema {
+      color: (235, 235, 235);
+    }
+    
+    .navbar_superior {
+        background-color: rgb(138, 70, 136);  
+    }
+    
+    .navbar-brand {
+      font-family: Caveat;
+      font-weight: bold;
+      font-size: 32px;
+    }
+    footer{
+      width: 1500px;
+    }
+    .container {
+      color: white;
+      font-family: 'BankGothic Lt BT', sans-serif;
+      font-weight: bold;
+      padding-top: 200px;
+    }
+    
